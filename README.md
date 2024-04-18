@@ -20,4 +20,4 @@ The training of the model is availabe in a .ipynb and .py file format.
 
 The fully trained model is available in a .sav file which can be imported into a another script and deployed for another external uses.
 
-Contact me with any suggestions/concerns at **antonytomy17@gmail.com**
+
